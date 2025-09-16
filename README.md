@@ -4,6 +4,8 @@
 
 > <b>대출 가능 여부 예측 분류 모델</b>
 
+<img width="700" alt="21815be8-ca3e-4529-8467-280566a7fdbb" src="https://github.com/user-attachments/assets/60040a1f-a11e-44bd-861f-3d3bd5c0adb4" />
+<img width="700" alt="737d7d3d-6137-4bcb-ba4a-692054011e39" src="https://github.com/user-attachments/assets/adbbc3b3-ec2f-4004-bfc2-57cdae2cac2a" />
 
 
 ## 프로젝트 소개
